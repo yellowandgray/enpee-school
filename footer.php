@@ -6,7 +6,7 @@
                     <!--Footer Widget Start-->
                     <div class="footer-widget about-ecova">
                         <div class="f2logo"> <img src="images/logo-np.png" alt="" style="width: 200px"> </div>
-                        <p>World Class Education Institution with all the Modern Facilities to Ensure that your Child get the BEST Education in Karaikal</p>
+                        <p>The ENPEE campus covers over 5 acres surrounded by lush greenery and a serene atmosphere suitable for learning. Our school delivers world class education with all the modern facilities to Ensure that your Child get the BEST Education in Karaikal.</p>
                         <!--                        <a href="#" class="more">More About<br ENPEE International School</a> -->
                     </div>
                     <!--Footer Widget End--> 
@@ -14,7 +14,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <!--Footer Widget Start-->
                     <div class="footer-widget">
-                        <h5>Current Projects</h5>
+                        <h5>Page Links</h5>
 
                         <ul class="quick-links">
                             <li> <a href="index.php">Home</a> </li>
@@ -32,8 +32,8 @@
                     <div class="footer-widget">
                         <h5>Upcoming Events</h5>
                         <ul class="lastest-products">
-                            <li> <img src="images/flp1.jpg" alt=""> <strong><a href="#">Grand Gala Meet</a></strong> <span class="pdate"><i>Date:</i> 10 Feb 2019</span> </li>
-                            <li> <img src="images/flp2.jpg" alt=""> <strong><a href="#">School Opening</a></strong> <span class="pdate"><i>Date:</i> 14 May 2019</span> </li>
+                            <li> <img src="images/event-01.jpg" alt="" style="width: 68px; height: 68px"> <strong><a href="#">Grand Gala Meet</a></strong> <span class="pdate"><i>Date:</i> 10 Feb 2019</span> </li>
+                            <li> <img src="images/pic-admission-open.jpg" alt="" style="width: 68px; height: 68px"> <strong><a href="#">School Opening</a></strong> <span class="pdate"><i>Date:</i> 14 May 2019</span> </li>
                         </ul>
                     </div>
                     <!--Footer Widget End--> 
@@ -74,7 +74,15 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="footer-social"> <strong>Get Connect</strong> <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="#"><i class="fab fa-google-plus-g"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> <a href="#"><i class="fab fa-youtube"></i></a> </div>
+                    <div class="footer-social"> 
+                        <strong>Get Connect</strong> 
+                        <a href="#"><i class="fab fa-facebook-f"></i></a> 
+                        <a href="#"><i class="fab fa-twitter"></i></a> 
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a> 
+<!--                        <a href="#"><i class="fab fa-google-plus-g"></i></a> 
+                        <a href="#"><i class="fab fa-instagram"></i></a> -->
+                        <a href="#"><i class="fab fa-youtube"></i></a> 
+                    </div>
                 </div>
             </div>
         </div>
@@ -83,7 +91,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
-                    <p> All Rights Reserved of ENPEE International School © 2018, Design & Developed By: YG Studio </p>
+                    <p> All Rights Reserved of ENPEE International School © 2018, Developed By: YGSTUDIO </p>
                 </div>
             </div>
         </div>

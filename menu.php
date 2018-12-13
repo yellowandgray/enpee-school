@@ -120,7 +120,7 @@
                 <li><i class="fa fa-facebook-official" aria-hidden="true"></i></li>
                 <li><i class="fa fa-twitter-square" aria-hidden="true"></i></li>
                 <li><i class="fa fa-youtube" aria-hidden="true"></i></li>
-                <li> <a class="con" href="#">Enquiry Now</a> </li>
+                <li> <a class="con" href="#">Enquire Now</a> </li>
 <!--                <li><a href="#search"> <i class="fas fa-search"></i> </a></li>-->
 <!--                <li class="burger"> <a href="#"><i class="fas fa-bars"></i> Menu</a> </li>-->
             </ul>
