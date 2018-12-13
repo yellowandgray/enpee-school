@@ -1,719 +1,564 @@
 <!doctype html>
 <html lang="en">
-   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <meta name="description" content="">
-      <meta name="author" content="">
-      <link rel="icon" href="images/favicon.png">
-      <title>ECO HTML</title>
-      <!-- CSS FILES START -->
-      <link href="css/custom.css" rel="stylesheet">
-      <link href="css/color.css" rel="stylesheet">
-      <link href="css/responsive.css" rel="stylesheet">
-      <link href="css/owl.carousel.min.css" rel="stylesheet">
-      <link href="css/bootstrap.min.css" rel="stylesheet">
-      <link href="css/prettyPhoto.css" rel="stylesheet">
-      <link href="css/all.min.css" rel="stylesheet">
-      <!-- CSS FILES End -->
-   </head>
-   <body>
-      <div class="wrapper home1">
-         <!--Header Start-->
-         <header class="header-style-1">
-            <nav class="navbar navbar-expand-lg">
-               <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""></a>
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-bars"></i> </button>
-               <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                  <ul class="navbar-nav mr-auto">
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="index.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Home </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="index.html">Home One</a></li>
-                           <li><a href="home-two.html">Home Two</a></li>
-                           <li><a href="home-three.html">Home Three</a></li>
-                        </ul>
-                     </li>
-                     <li class="nav-item"> <a class="nav-link" href="about.html">About</a> </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="events-grid.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Events </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="events-grid.html">Events Grid</a></li>
-                           <li><a href="events-grid-2.html">Events Grid Two</a></li>
-                           <li><a href="events-grid-3.html">Events Grid Three</a></li>
-                           <li><a href="events-list.html">Events List</a></li>
-                           <li><a href="events-list-two.html">Events List Two</a></li>
-                           <li><a href="event-details.html">Event Details</a></li>
-                        </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="causes.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Causes </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="causes.html">Causes Grid</a></li>
-                           <li><a href="causes-list.html">Causes List</a></li>
-                           <li><a href="causes-details.html">Causes Details</a> </li>
-                        </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="blog.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Blogs </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="blog.html">Blog Default</a></li>
-                           <li><a href="blog-list.html">Blog List</a> </li>
-                           <li><a href="blog-grid.html">Blog Grid</a></li>
-                           <li><a href="blog-two-col.html">Blog Two Columns</a> </li>
-                           <li><a href="blog-three-col.html">Blog Three Columns</a></li>
-                           <li><a href="blog-details.html">Blog Details</a></li>
-                        </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Pages </a>
-                        <ul class="dropdown-menu" >
-                           <li>
-                              <a href="#">Projects</a>
-                              <ul class="dropdown-menu" >
-                                 <li><a href="projects.html">Projects</a> </li>
-                                 <li><a href="projects-grid.html">Projects Grid</a> </li>
-                                 <li><a href="projects-grid-two.html">Projects Grid Two</a> </li>
-                                 <li><a href="projects-list.html">Projects List</a> </li>
-                                 <li><a href="projects-details.html">Project Details</a> </li>
-                              </ul>
-                           </li>
-                           <li>
-                              <a href="#">Shop</a>
-                              <ul class="dropdown-menu" >
-                                 <li><a href="shop.html">Shop</a> </li>
-                                 <li><a href="shop-two.html">Shop Two</a> </li>
-                                 <li><a href="shop-details.html">Shop Details</a> </li>
-                              </ul>
-                           </li>
-                           <li>
-                              <a href="team.html">Team</a>
-                              <ul class="dropdown-menu" >
-                                 <li><a href="team.html">Team One</a> </li>
-                                 <li><a href="team-two.html">Team Two</a> </li>
-                                 <li><a href="team-details.html">Team Details</a> </li>
-                              </ul>
-                           </li>
-                           <li>
-                              <a href="#">Gallery</a>
-                              <ul class="dropdown-menu" >
-                                 <li><a href="gallery-grid.html">Gallery Grid</a> </li>
-                                 <li><a href="gallery-full.html">Gallery Full</a> </li>
-                                 <li><a href="gallery-masonry.html">Gallery Masonry</a> </li>
-                              </ul>
-                           </li>
-                           <li><a href="testimonials.html">Testimonials</a> </li>
-                           <li><a href="donation.html">Donation</a> </li>
-                           <li><a href="my-account.html">My Account</a> </li>
-                           <li><a href="coming-soon.html">Coming Soon</a> </li>
-                           <li><a href="page-404.html">404 Error</a> </li>
-                        </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="contact.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Contact </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="contact-one.html">Contact One</a> </li>
-                           <li><a href="contact-two.html">Contact Two</a> </li>
-                        </ul>
-                     </li>
-                  </ul>
-                  <ul class="float-right topside-menu">
-                     <li> <a class="con" href="#">Contribute</a> </li>
-                     <li><a href="#search"> <i class="fas fa-search"></i> </a></li>
-                     <li class="burger"> <a href="#"><i class="fas fa-bars"></i> Menu</a> </li>
-                  </ul>
-               </div>
-            </nav>
-         </header>
-         <!--Header End-->
-		<div id="search">
-            <button type="button" class="close">×</button>
-            <form class="search-overlay-form">
-               <input type="search" value="" placeholder="type keyword(s) here" />
-               <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i></button>
-            </form>
-         </div>
-         <!--Slider Start-->
-         <section id="home-slider" class="owl-carousel owl-theme wf100">
-            <div class="item">
-               <div class="slider-caption">
-                  <div class="container">
-                     <strong>100k Plants Grown in 2018,</strong>
-                     <h1>Heal the World</h1>
-                     <p> Environmental awareness is not a trend that comes into style a few months and stops. Individuals working towards making a small impact on Earth.</p>
-                     <a href="#" class="active">Join us Now</a> <a href="#">More About Us</a> 
-                  </div>
-               </div>
-               <img src="images/h1-slide1.jpg" alt=""> 
+    <?php include 'head.php'; ?>
+    <body>
+        <div class="wrapper home1">
+            <!--Header Start-->
+            <?php include 'menu.php'; ?>
+            <!--Header End-->
+            <div id="search">
+                <button type="button" class="close">×</button>
+                <form class="search-overlay-form">
+                    <input type="search" value="" placeholder="type keyword(s) here" />
+                    <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i></button>
+                </form>
             </div>
-            <div class="item">
-               <div class="slider-caption">
-                  <div class="container">
-                     <strong>Organize the Management System of</strong>
-                     <h1>Recycling & Waste</h1>
-                     <p> Environmental awareness is not a trend that comes into style a few months and stops. Individuals working towards making a small impact on Earth.</p>
-                     <a href="#" class="active">Join us Now</a> <a href="#">More About Us</a> 
-                  </div>
-               </div>
-               <img src="images/h1-slide2.jpg" alt=""> 
+            <!--Slider Start-->
+            <section id="home-slider" class="owl-carousel owl-theme wf100">
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>Karaikal's 1st Premium School</strong>
+                            <!--                     <h1>Heal the World</h1>
+                                                 <p> Environmental awareness is not a trend that comes into style a few months and stops. Individuals working towards making a small impact on Earth.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a> 
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-01.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>French Style Architecture with All Modern Facilities</strong>
+                            <!--                     <h1>Recycling & Waste</h1>
+                                                 <p> Environmental awareness is not a trend that comes into style a few months and stops. Individuals working towards making a small impact on Earth.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a>
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-02.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>World Class Digitized Classrooms</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a>
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-03.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>Modern Learning Methodologies</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a>
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-04.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>International Education Standards</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a> 
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-05.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>A Well-Disciplined & Friendly Environment</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a> 
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-06.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>Emphasis on Mental & Physical activities</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a> 
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-07.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>Unique Sports Complex</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a> 
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-08.jpg" alt=""/>
+                </div>
+
+                <div class="item">
+                    <div class="slider-caption text-center">
+                        <div class="container">
+                            <strong>FootBall Ground</strong>
+                            <!--                     <h1>Stop Air Pollution</h1>
+                                                 <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>-->
+                            <!--                            <a href="#" class="active">Join us Now</a>
+                                                        <a href="#">More About Us</a> -->
+                        </div>
+                    </div>
+                    <img src="images/banner/banner-09.jpg" alt=""/>
+                </div>
+
+            </section>
+            <!--Slider End--> 
+            <!--About Section Start-->
+            <section class="home-about wf100 p80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="about-txt">
+<!--                                <h2> <span>ecova.</span> Welcome to ENPEE INTERNATIONAL SCHOOL</h2>-->
+                                <h2>Welcome to ENPEE INTERNATIONAL SCHOOL</h2>
+                                <p class="text-justify">The ENPEE campus covers over 5 acres surrounded by lush greenery and a serene atmosphere suitable for learning. At the heart of our campus, ENPEE International school is home to 22 Classrooms spanning over an incredible area of over 44,000/- sq.ft in its Phase – I, starting from Academic year – 2019-2020.</p>
+                                <p class="text-justify">Our second and Third phases will resume from the successive academic year of 2020-21 and 2021-22 respectively. Our campus will have a football ground, unique sports complex aiding in overall growth & development of an individual, Spacious and learner oriented laboratories, mixed age group activity studio, digitized classrooms. <a href="#">Read More</a></p>
+                                <ul>
+                                    <li><i class="fas fa-check"></i> Disciplined Education Structure</li>
+                                    <li><i class="fas fa-check"></i> Interactive Learning </li>
+                                    <li><i class="fas fa-check"></i> Project Based Curriculum </li>
+                                    <li><i class="fas fa-check"></i> Experienced & Well Trained Staff</li>
+                                    <li><i class="fas fa-check"></i> International Standard</li>
+                                    <li><i class="fas fa-check"></i> World Class Facilities </li>
+                                </ul>
+<!--                                <a class="lm" href="#">Read More</a> -->
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="about-pic">
+                                <div class="pic1">
+                                    <div id="pic-slider" class="owl-carousel owl-theme">
+                                        <div class="item"><img src="images/carosel/pic-Staff.jpg" alt=""></div>
+                                        <div class="item"><img src="images/carosel/pic-doscipline.jpg" alt=""></div>
+                                        <div class="item"><img src="images/carosel/pic-frenchstyle.jpg" alt=""></div>
+                                        <div class="item"><img src="images/carosel/pic-interactive-learning.jpg" alt=""></div>
+                                        <div class="item"><img src="images/carosel/pic-project-based-curriculum.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="pic2"><img src="images/aboutpic2.jpg" alt=""></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--About Section End--> 
+            <!--Services Slider Start-->
+            <section class="home-services wf100 p80bottom">
+                <div class="row">
+                    <!--Services Box Start-->
+                    <div class="ser-col">
+                        <div class="ser-box">
+                            <div class="ser-thumb">
+                                <a href="#"><i class="fas fa-link"></i></a>
+                                <img src="images/5-acre-campus-secured.jpg" alt="">
+                            </div>
+                            <div class="ser-txt">
+                                <h4> <a href="#">Fully Secured 5 Acre Campus </a> </h4>
+                                <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--Services Box End--> 
+                    <!--Services Box Start-->
+                    <div class="ser-col">
+                        <div class="ser-box">
+                            <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> 
+                                <img src="images/interactive-digitized.jpg" alt=""></div>
+                            <div class="ser-txt">
+                                <h4> <a href="#">Interactive/ Digitized Classrooms</a>
+                                </h4>
+                                <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--Services Box End--> 
+                    <!--Services Box Start-->
+                    <div class="ser-col">
+                        <div class="ser-box">
+                            <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> 
+                                <img src="images/sports-complex.jpg" alt=""></div>
+                            <div class="ser-txt">
+                                <h4> <a href="#">Unique Sports Complex</a> 
+                                </h4>
+                                <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--Services Box End--> 
+                    <!--Services Box Start-->
+                    <div class="ser-col">
+                        <div class="ser-box">
+                            <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> 
+                                <img src="images/community-football.jpg" alt=""></div>
+                            <div class="ser-txt">
+                                <h4> <a href="#">Community Football Ground</a> 
+                                </h4>
+                                <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--Services Box End--> 
+                    <!--Services Box Start-->
+                    <div class="ser-col">
+                        <div class="ser-box">
+                            <div class="ser-thumb"> <a href="#"><i class="fas fa-link"></i></a> 
+                                <img src="images/air-buses.jpg" alt=""></div>
+                            <div class="ser-txt">
+                                <h4> <a href="#">Air-Conditioned School Buses</a> 
+                                </h4>
+                                <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
+                            </div>
+                        </div>
+                    </div>
+                    <!--Services Box End--> 
+                </div>
+<!--                <div class="load-more text-center w-100"> <a href="#" class="lm">View More Work</a> </div>-->
+            </section>
+            <!--Services Slider End--> 
+            <!--News Post Section Start-->
+            <section class="news-posts wf100 p80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <!--title start-->
+                            <div class="section-title">
+                                <strong>Our Current</strong>
+                                <h2>Programs Offered</h2>
+                            </div>
+                            <!--title end-->
+                            <div class="blog-list wf100">
+                                <!--Blog Post Start-->
+                                <div class="blog-post wf100">
+                                    <div class="blog-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/pic-pre-kg.jpg" alt=""></div>
+                                    <div class="blog-txt">
+                                        <h5><a href="#">Pre-KG</a></h5>
+                                        <!--                                        <ul class="post-meta">
+                                                                                    <li><span>By:</span> Danial John</li>
+                                                                                    <li><span>Posted:</span> 29 September, 2018</li>
+                                                                                </ul>-->
+                                        <p class="text-justify"> Early Childhood education is the child’s first step towards social engagement. This prepares toddlers through Experiential learning activities, making real life connections. Our program is based largely on the developmentally appropriate practice thereby delivering the right curriculum at the right age </p>
+                                    </div>
+                                </div>
+                                <!--Blog Post End--> 
+                                <!--Blog Post Start-->
+                                <div class="blog-post wf100">
+                                    <div class="blog-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/pic-lkg-ukg.jpg" alt=""></div>
+                                    <div class="blog-txt">
+                                        <h5><a href="#">LKG-UKG</a></h5>
+                                        <!--                                        <ul class="post-meta">
+                                                                                    <li><span>By:</span> Danial John</li>
+                                                                                    <li><span>Posted:</span> 29 September, 2018</li>
+                                                                                </ul>-->
+                                        <p class="text-justify"> The Kindergarten programs provided the child with Academic and overall readiness to step into the world of Primary education, from Early years.</p>
+                                    </div>
+                                </div>
+                                <!--Blog Post End--> 
+                                <!--Blog Post Start-->
+                                <div class="blog-post wf100">
+                                    <div class="blog-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/pic-class-one-five.jpg" alt=""></div>
+                                    <div class="blog-txt">
+                                        <h5><a href="#">Class I to V</a></h5>
+                                        <!--                                        <ul class="post-meta">
+                                                                                    <li><span>By:</span> Danial John</li>
+                                                                                    <li><span>Posted:</span> 29 September, 2018</li>
+                                                                                </ul>-->
+                                        <p class="text-justify"> Primary class program, to be affiliated to the CBSE method of education, is available from the Academic year 2019. Our friendly & welcoming classrooms offer children the space to learn the right way. </p>
+                                    </div>
+                                </div>
+                                <!--Blog Post End--> 
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <!--title start-->
+                            <div class="section-title">
+                                <strong>Our Next</strong>
+                                <h2>Events</h2>
+                            </div>
+                            <!--title end-->
+                            <div class="event-posts wf100">
+                                <!--Blog Post Start-->
+                                <div class="event-post">
+                                    <div class="event-thumb">
+                                        <a href="#"><i class="fas fa-link"></i></a> <img src="images/event-01.jpg" alt="">
+                                        <ul class="post-meta">
+                                            <li>10 Febuary, 2019 </li>
+                                            <li> 02:00 pm - 07:00 pm</li>
+                                        </ul>
+                                    </div>
+                                    <div class="event-txt">
+                                        <h6><a href="#">Grand i5 Meet</a></h6>
+                                        <p><i class="fas fa-map-marker-alt"></i> Sri Mahal, Karaikal, Pondicherry </p>
+                                    </div>
+                                </div>
+                                <!--Blog Post End--> 
+                                <!--Blog Post Start-->
+                                <div class="event-post">
+                                    <div class="event-thumb">
+                                        <a href="#"><i class="fas fa-link"></i></a> <img src="images/pic-admission-open.jpg" alt="">
+                                        <ul class="post-meta">
+                                            <li>20 February, 2019 </li>
+                                            <li> 10:00 am - 05:00 pm</li>
+                                        </ul>
+                                    </div>
+                                    <div class="event-txt">
+                                        <h6><a href="#">Admissions for Pre-KG, LKG & UKG opens from 20th February</a></h6>
+                                        <p><i class="fas fa-map-marker-alt"></i> ENPEE International School, Karaikal, Pondicherry </p>
+                                    </div>
+                                </div>
+                                <!--Blog Post End--> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--News Post Section End--> 
+            <!--Fundraising Campaigns Section Start-->
+            <section class="wf100 p80 fcampaigns">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <!--title start-->
+                            <div class="section-title">
+                                <strong>Our</strong>
+                                <h2>Board Of Directors</h2>
+                            </div>
+                            <!--title end--> 
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <!--campaign box start-->
+                            <div class="campaign-box">
+                                <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/founder-01.jpg" alt=""> </div>
+                                <div class="campaign-txt">
+                                    <h5><a href="#">Rtn. PHF. Hajee Mr. L. KAMAL  BATCHA</a></h5>
+                                    <p class="text-justify">He is a multi-faceted personality, with a pleasing disposition and a philanthropic bent of mind, but basically wedded to the pharma community, by creating new products at affordable rates for the community health care.</p>
+                                    <p class="bold">Founder and CHAIRMAN:  MARAICAYAR TRUST (1992)</p>
+                                    <!--                                    <ul class="participants">
+                                                                            <li><img src="images/u1.jpg" alt=""></li>
+                                                                            <li><img src="images/u2.jpg" alt=""></li>
+                                                                            <li><img src="images/u3.jpg" alt=""></li>
+                                                                            <li><img src="images/u4.jpg" alt=""></li>
+                                                                            <li><img src="images/u5.jpg" alt=""></li>
+                                                                            <li><span>+16</span></li>
+                                                                            <li><strong><i>21</i> Backers</strong></li>
+                                                                        </ul>
+                                                                        <div class="progress">
+                                                                            <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                                                                        </div>
+                                                                        <ul class="funds">
+                                                                            <li><strong>47%</strong> Funded</li>
+                                                                            <li><strong>$638.00</strong> Raised</li>
+                                                                            <li><strong>$9750.00</strong> Required</li>
+                                                                        </ul>-->
+                                </div>
+                                <a href="#" class="dbutton">Read More</a> 
+                            </div>
+                            <!--campaign box end--> 
+                        </div>
+                        <div class="col-md-4">
+                            <!--campaign box start-->
+                            <div class="campaign-box">
+                                <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/founder-02.jpg" alt=""> </div>
+                                <div class="campaign-txt">
+                                    <h5><a href="#">Dr. K. MUJIBUR RAHMAN, M.D.</a></h5>
+                                    <p class="text-justify">He is the Managing Trustee of the MARAICAYAR TRUST.</p>
+                                    <p class="text-justify">He is the PROFESSOR and HEAD, Dept. of Community Medicine in the VINAYAKA MISSIONS MEDICAL COLLEGE, KARAIKAL , since 2007. He is also the Managing Director of  NATIONAL PHARMA HOSPITAL AND RESEARCH INSTITUTE, Thanjavur from 2012.</p>
+                                </div>
+                                <a href="#" class="dbutton">Read More</a> 
+                            </div>
+                            <!--campaign box end--> 
+                        </div>
+                        <div class="col-md-4">
+                            <!--campaign box start-->
+                            <div class="campaign-box">
+                                <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/founder-02.jpg" alt=""> </div>
+                                <div class="campaign-txt">
+                                    <h5><a href="#">Dr. K.MOHAMED  ALI, M.D.</a></h5>
+                                    <p class="text-justify">He is a Managing Trustee of the MARAICAYAR TRUST. He is also the PROFESSOR – Dept.Of COMMUNITY MEDICINE in the VINAYAKA MISSIONS MEDICAL COLLEGE, KARAIKAL, since 2007.</p>
+                                    <p class="text-justify">He is the DIRECTOR of NATIONAL PHARMA HOSPITAL AND RESEARCH INSTITUTE, Thanjavur from 2012.</p>
+                                </div>
+                                <a href="#" class="dbutton">Read More</a> 
+                            </div>
+                            <!--campaign box end--> 
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Fundraising Campaigns Section End--> 
+            <!--Current Promises Section Start-->
+            <section class="promises wf100 p80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <div class="pro-title">
+                                <h2>PARENTS CORNER</h2>
+                                <p>Dear Parents, <br/> Thank you for visiting our website. We look forward to meeting with you in person to discuss the Bright Future and Quality Education our Prestigious Institution can offer your Children. We will be happy to Show our campus and the world class facilities that you can avail. We have organized an event specially for you and your children. Kindly fill out the enquiry form for further details. </p>
+                                <p>With Best regards,<br/> School Management</p>
+                            </div>
+                            <!--                            <ul class="counter">
+                                                            <li>
+                                                                <p class="counter-count">59000</p>
+                                                                <p class="ctxt">Trees Planted</p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="counter-count">69000</p>
+                                                                <p class="ctxt">Solar Panels in 2017</p>
+                                                            </li>
+                                                            <li>
+                                                                <p class="counter-count">49000</p>
+                                                                <p class="ctxt">Wildlife Saved</p>
+                                                            </li>
+                                                        </ul>-->
+                        </div>
+                        <div class="col-md-5">
+                            <div class="volunteer-form">
+                                <div class="section-title">
+                                    <strong>Join Us Now</strong>
+                                    <h2>Enquiry Form</h2>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <input type="text" class="form-control" placeholder="Your Name" aria-label="Your Name">
+                                    </li>
+                                    <li>
+                                        <input type="text" class="form-control" placeholder="Phone" aria-label="Phone">
+                                    </li>
+                                    <li>
+                                        <input type="text" class="form-control" placeholder="Email Address" aria-label="Email Address">
+                                    </li>
+                                    <li>
+                                        <input type="text" class="form-control" placeholder="Number Of Children" aria-label="Number Of Children">
+                                    </li>
+                                    <li>
+                                        <div class="multiselect">
+                                            <div class="selectBox" onclick="showCheckboxes()">
+                                                <select>
+                                                    <option>Class</option>
+                                                </select>
+                                                <div class="overSelect"></div>
+                                            </div>
+                                            <div id="checkboxes">
+                                                <label for="one">
+                                                    <input type="checkbox" id="one" /> Pre-KG</label>
+                                                <label for="two">
+                                                    <input type="checkbox" id="two" /> L-KG</label>
+                                                <label for="three">
+                                                    <input type="checkbox" id="three" /> U-KG</label>
+                                                <label for="four">
+                                                    <input type="checkbox" id="four" /> I</label>
+                                                <label for="five">
+                                                    <input type="checkbox" id="five" /> II</label>
+                                                <label for="six">
+                                                    <input type="checkbox" id="six" /> III</label>
+                                                <label for="seven">
+                                                    <input type="checkbox" id="seven" /> IV</label>
+                                                <label for="eight">
+                                                    <input type="checkbox" id="eight" /> V</label>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <input type="submit" class="fsubmit" value="Join us Now">
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Current Promises Section End--> 
+            <!--Activities Gallery Section Start-->
+            <section class="agallery gallery wf100 p80">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <!--title start-->
+                            <div class="section-title">
+                                <strong>Our Other</strong>
+                                <h2>Activities</h2>
+                            </div>
+                            <!--title end--> 
+                        </div>
+                        <!--                        <div class="col-lg-7">
+                                                    <ul class="flinks">
+                                                        <li><a data-filter="*" href="#" title="">Show All</a></li>
+                                                        <li><a data-filter=".f-cat1" href="#" title="">Wildlife</a></li>
+                                                        <li><a data-filter=".f-cat2" href="#" title="">Water Resources</a></li>
+                                                        <li><a data-filter=".f-cat3" href="#" title="">Solar Energy</a></li>
+                                                        <li><a data-filter=".f-cat4" href="#" title="">Recycling</a></li>
+                                                    </ul>
+                                                </div>-->
+                    </div>
+                    <div class="gallery-inner masonry">
+                        <div class="row">
+                            <ul>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat1 f-cat4"><span><a href="images/facilities/pic-art.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a> <img src="images/facilities/pic-art.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat2 f-cat3"><span> <a href="images/facilities/pic-dance.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-dance.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat3 f-cat1"><span> <a href="images/facilities/pic-music.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a> <img src="images/facilities/pic-music.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat4 f-cat2"><span> <a href="images/facilities/pic-sports.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-sports.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat1"><span> <a href="images/facilities/pic-yoga.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-yoga.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat2"><span> <a href="images/facilities/pic-theatre.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-theatre.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat3 f-cat2"><span> <a href="images/facilities/pic-swimming.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-swimming.jpg" alt=""></span> </li>
+                                <li class="col-md-3 col-sm-6 f-cat f-cat4"><span> <a href="images/facilities/pic-touring.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/facilities/pic-touring.jpg" alt=""></span> </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--Activities Gallery Section End--> 
+            <!--Partner Logos Section Start-->
+            <div class="partner-logos wf100 mb80">
+                <div class="container">
+                    <h2 class="text-center padding-tb-30">Technology Partners</h2>
+                    <div id="partner-logos" class="owl-carousel owl-theme">
+                        <div class="item"><img src="images/plogo1.png" alt=""></div>
+                        <div class="item"><img src="images/plogo2.png" alt=""></div>
+                        <div class="item"><img src="images/plogo3.png" alt=""></div>
+                        <div class="item"><img src="images/plogo4.png" alt=""></div>
+                        <div class="item"><img src="images/plogo5.png" alt=""></div>
+                        <div class="item"><img src="images/plogo1.png" alt=""></div>
+                        <div class="item"><img src="images/plogo2.png" alt=""></div>
+                        <div class="item"><img src="images/plogo3.png" alt=""></div>
+                        <div class="item"><img src="images/plogo4.png" alt=""></div>
+                        <div class="item"><img src="images/plogo5.png" alt=""></div>
+                    </div>
+                </div>
             </div>
-            <div class="item">
-               <div class="slider-caption">
-                  <div class="container">
-                     <strong>It’s very harmful for everyone</strong>
-                     <h1>Stop Air Pollution</h1>
-                     <p> Air Pollution is another main environmental pollution faced by our world today. Air pollution takes place when damaging stuff including particulates.</p>
-                     <a href="#" class="active">Join us Now</a> <a href="#">More About Us</a> 
-                  </div>
-               </div>
-               <img src="images/h1-slide3.jpg" alt=""> 
-            </div>
-         </section>
-         <!--Slider End--> 
-         <!--About Section Start-->
-         <section class="home-about wf100 p80">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-6">
-                     <div class="about-txt">
-                        <h2> <span>ecova.</span> is providing the best
-                           solution of Eco Environment 
-                        </h2>
-                        <p> If anything’s hot in today’s economy, it’s saving money, including a broad range of green businesses helping people save energy, water, and other resources. <strong>Definitely, you can go with this business as it is a nothing but the future.</strong> </p>
-                        <p> When you embrace eco awareness as a part of your daily life, you can defintiely think about the Environment business. </p>
-                        <ul>
-                           <li><i class="fas fa-check"></i> Solar Energy</li>
-                           <li><i class="fas fa-check"></i> Waste Management </li>
-                           <li><i class="fas fa-check"></i> Eco Ideas </li>
-                           <li><i class="fas fa-check"></i> Recycling Materials</li>
-                           <li><i class="fas fa-check"></i> Plant Ecology</li>
-                           <li><i class="fas fa-check"></i> Saving Wildlife </li>
-                        </ul>
-                        <a class="lm" href="#">Learn More</a> 
-                     </div>
-                  </div>
-                  <div class="col-md-6">
-                     <div class="about-pic">
-                        <div class="pic1">
-                          <div id="pic-slider" class="owl-carousel owl-theme">
-        					<div class="item"><img src="images/aboutpic1.jpg" alt=""></div>
-                            <div class="item"><img src="images/aboutpic3.jpg" alt=""></div>
-                             <div class="item"><img src="images/aboutpic5.jpg" alt=""></div>
-					        	</div>
-                        </div>
-                        <div class="pic2"><img src="images/aboutpic2.jpg" alt=""></div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!--About Section End--> 
-         <!--Services Slider Start-->
-         <section class="home-services wf100 p80bottom">
-            <div class="row">
-               <!--Services Box Start-->
-               <div class="ser-col">
-                  <div class="ser-box">
-                     <div class="ser-thumb">
-                        <a href="#"><i class="fas fa-link"></i></a>
-                        <img src="images/serimg1.jpg" alt="">
-                     </div>
-                     <div class="ser-txt">
-                        <h4> <a href="#">Control Pollution & Environment</a> </h4>
-                        <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
-                     </div>
-                  </div>
-               </div>
-               <!--Services Box End--> 
-               <!--Services Box Start-->
-               <div class="ser-col">
-                  <div class="ser-box">
-                     <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/serimg2.jpg" alt=""></div>
-                     <div class="ser-txt">
-                        <h4> <a href="#">Save World’s
-                           Water Resources</a> 
-                        </h4>
-                        <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
-                     </div>
-                  </div>
-               </div>
-               <!--Services Box End--> 
-               <!--Services Box Start-->
-               <div class="ser-col">
-                  <div class="ser-box">
-                     <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/serimg3.jpg" alt=""></div>
-                     <div class="ser-txt">
-                        <h4> <a href="#">Recycling & Waste
-                           Management</a> 
-                        </h4>
-                        <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
-                     </div>
-                  </div>
-               </div>
-               <!--Services Box End--> 
-               <!--Services Box Start-->
-               <div class="ser-col">
-                  <div class="ser-box">
-                     <div class="ser-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/serimg4.jpg" alt=""></div>
-                     <div class="ser-txt">
-                        <h4> <a href="#">Save Plants &
-                           Forest Planting</a> 
-                        </h4>
-                        <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
-                     </div>
-                  </div>
-               </div>
-               <!--Services Box End--> 
-               <!--Services Box Start-->
-               <div class="ser-col">
-                  <div class="ser-box">
-                     <div class="ser-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/serimg5.jpg" alt=""></div>
-                     <div class="ser-txt">
-                        <h4> <a href="#">Implement Solar
-                           & Wind Energies</a> 
-                        </h4>
-                        <span class="aicon"><i class="fas fa-arrow-right"></i></span> 
-                     </div>
-                  </div>
-               </div>
-               <!--Services Box End--> 
-            </div>
-            <div class="load-more text-center w-100"> <a href="#" class="lm">View More Work</a> </div>
-         </section>
-         <!--Services Slider End--> 
-         <!--News Post Section Start-->
-         <section class="news-posts wf100 p80">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-8">
-                     <!--title start-->
-                     <div class="section-title">
-                        <strong>Our Latest</strong>
-                        <h2>News Posts</h2>
-                     </div>
-                     <!--title end-->
-                     <div class="blog-list wf100">
-                        <!--Blog Post Start-->
-                        <div class="blog-post wf100">
-                           <div class="blog-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/np1.jpg" alt=""></div>
-                           <div class="blog-txt">
-                              <h5><a href="#">How you can keep alive wild animals for a long period.</a></h5>
-                              <ul class="post-meta">
-                                 <li><span>By:</span> Danial John</li>
-                                 <li><span>Posted:</span> 29 September, 2018</li>
-                              </ul>
-                              <p> According to a survey the perceived higher cost of environmentally-friendly products is the major holdup to consumers going green. </p>
-                           </div>
-                        </div>
-                        <!--Blog Post End--> 
-                        <!--Blog Post Start-->
-                        <div class="blog-post wf100">
-                           <div class="blog-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/np2.jpg" alt=""></div>
-                           <div class="blog-txt">
-                              <h5><a href="#">Eliminate your plastic bottle pollution
-                                 and keep safe.</a> 
-                              </h5>
-                              <ul class="post-meta">
-                                 <li><span>By:</span> Danial John</li>
-                                 <li><span>Posted:</span> 29 September, 2018</li>
-                              </ul>
-                              <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchange it was popularised in letraset sheets.</p>
-                           </div>
-                        </div>
-                        <!--Blog Post End--> 
-                        <!--Blog Post Start-->
-                        <div class="blog-post wf100">
-                           <div class="blog-thumb"><a href="#"><i class="fas fa-link"></i></a> <img src="images/np3.jpg" alt=""></div>
-                           <div class="blog-txt">
-                              <h5><a href="#">The effort to GoGreen has been felt
-                                 across industries.</a> 
-                              </h5>
-                              <ul class="post-meta">
-                                 <li><span>By:</span> Danial John</li>
-                                 <li><span>Posted:</span> 29 September, 2018</li>
-                              </ul>
-                              <p> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words. </p>
-                           </div>
-                        </div>
-                        <!--Blog Post End--> 
-                     </div>
-                  </div>
-                  <div class="col-md-4">
-                     <!--title start-->
-                     <div class="section-title">
-                        <strong>Our Next</strong>
-                        <h2>Events</h2>
-                     </div>
-                     <!--title end-->
-                     <div class="event-posts wf100">
-                        <!--Blog Post Start-->
-                        <div class="event-post">
-                           <div class="event-thumb">
-                              <a href="#"><i class="fas fa-link"></i></a> <img src="images/ep1.jpg" alt="">
-                              <ul class="post-meta">
-                                 <li>29 August, 2018 </li>
-                                 <li> 08:00 am - 01:00 pm</li>
-                              </ul>
-                           </div>
-                           <div class="event-txt">
-                              <h6><a href="#">Forest Planting Campaign</a></h6>
-                              <p><i class="fas fa-map-marker-alt"></i> Green Gardendening Center, New York, USA </p>
-                           </div>
-                        </div>
-                        <!--Blog Post End--> 
-                        <!--Blog Post Start-->
-                        <div class="event-post">
-                           <div class="event-thumb">
-                              <a href="#"><i class="fas fa-link"></i></a> <img src="images/ep2.jpg" alt="">
-                              <ul class="post-meta">
-                                 <li>29 August, 2018 </li>
-                                 <li> 08:00 am - 01:00 pm</li>
-                              </ul>
-                           </div>
-                           <div class="event-txt">
-                              <h6><a href="#">Save Energy by Solar System</a></h6>
-                              <p><i class="fas fa-map-marker-alt"></i> Electric Open Area, New York, USA </p>
-                           </div>
-                        </div>
-                        <!--Blog Post End--> 
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!--News Post Section End--> 
-         <!--Fundraising Campaigns Section Start-->
-         <section class="wf100 p80 fcampaigns">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-12">
-                     <!--title start-->
-                     <div class="section-title">
-                        <strong>Our Causes</strong>
-                        <h2>Fundraising Campaigns</h2>
-                     </div>
-                     <!--title end--> 
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-md-4">
-                     <!--campaign box start-->
-                     <div class="campaign-box">
-                        <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/fc1.jpg" alt=""> </div>
-                        <div class="campaign-txt">
-                           <h5><a href="#">Let’s Stop Global Warming</a></h5>
-                           <ul class="participants">
-                              <li><img src="images/u1.jpg" alt=""></li>
-                              <li><img src="images/u2.jpg" alt=""></li>
-                              <li><img src="images/u3.jpg" alt=""></li>
-                              <li><img src="images/u4.jpg" alt=""></li>
-                              <li><img src="images/u5.jpg" alt=""></li>
-                              <li><span>+16</span></li>
-                              <li><strong><i>21</i> Backers</strong></li>
-                           </ul>
-                           <div class="progress">
-                              <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                           <ul class="funds">
-                              <li><strong>47%</strong> Funded</li>
-                              <li><strong>$638.00</strong> Raised</li>
-                              <li><strong>$9750.00</strong> Required</li>
-                           </ul>
-                        </div>
-                        <a href="#" class="dbutton">Donate Now</a> 
-                     </div>
-                     <!--campaign box end--> 
-                  </div>
-                  <div class="col-md-4">
-                     <!--campaign box start-->
-                     <div class="campaign-box">
-                        <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/fc2.jpg" alt=""> </div>
-                        <div class="campaign-txt">
-                           <h5><a href="#">It’s time to Forest Planting</a></h5>
-                           <ul class="participants">
-                              <li><img src="images/u5.jpg" alt=""></li>
-                              <li><img src="images/u4.jpg" alt=""></li>
-                              <li><span>M</span></li>
-                              <li><img src="images/u5.jpg" alt=""></li>
-                              <li><span>+16</span></li>
-                              <li><strong><i>08</i> Backers</strong></li>
-                           </ul>
-                           <div class="progress">
-                              <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                           <ul class="funds">
-                              <li><strong>47%</strong> Funded</li>
-                              <li><strong>$638.00</strong> Raised</li>
-                              <li><strong>$9750.00</strong> Required</li>
-                           </ul>
-                        </div>
-                        <a href="#" class="dbutton">Donate Now</a> 
-                     </div>
-                     <!--campaign box end--> 
-                  </div>
-                  <div class="col-md-4">
-                     <!--campaign box start-->
-                     <div class="campaign-box">
-                        <div class="campaign-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/fc3.jpg" alt=""> </div>
-                        <div class="campaign-txt">
-                           <h5><a href="#">Securing Wildlife</a></h5>
-                           <ul class="participants">
-                              <li><img src="images/u1.jpg" alt=""></li>
-                              <li><img src="images/u2.jpg" alt=""></li>
-                              <li><img src="images/u3.jpg" alt=""></li>
-                              <li><span>S</span></li>
-                              <li><img src="images/u5.jpg" alt=""></li>
-                              <li><span>+16</span></li>
-                              <li><strong><i>19</i> Backers</strong></li>
-                           </ul>
-                           <div class="progress">
-                              <div class="progress-bar" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
-                           </div>
-                           <ul class="funds">
-                              <li><strong>47%</strong> Funded</li>
-                              <li><strong>$638.00</strong> Raised</li>
-                              <li><strong>$9750.00</strong> Required</li>
-                           </ul>
-                        </div>
-                        <a href="#" class="dbutton">Donate Now</a> 
-                     </div>
-                     <!--campaign box end--> 
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!--Fundraising Campaigns Section End--> 
-         <!--Current Promises Section Start-->
-         <section class="promises wf100 p80">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-7">
-                     <div class="pro-title">
-                        <h2>Current Promises</h2>
-                        <h3>Save Water, Energey, Control Pollution
-                           & Environment, Wildlife, Forest Planting
-                           Implementation of Solar System. 
-                        </h3>
-                     </div>
-                     <ul class="counter">
-                        <li>
-                           <p class="counter-count">59000</p>
-                           <p class="ctxt">Trees Planted</p>
-                        </li>
-                        <li>
-                           <p class="counter-count">69000</p>
-                           <p class="ctxt">Solar Panels in 2017</p>
-                        </li>
-                        <li>
-                           <p class="counter-count">49000</p>
-                           <p class="ctxt">Wildlife Saved</p>
-                        </li>
-                     </ul>
-                  </div>
-                  <div class="col-md-5">
-                     <div class="volunteer-form">
-                        <div class="section-title">
-                           <strong>Join Us Now</strong>
-                           <h2>Become Volunteer</h2>
-                        </div>
-                        <ul>
-                           <li>
-                              <input type="text" class="form-control" placeholder="Your Name" aria-label="Your Name">
-                           </li>
-                           <li>
-                              <input type="text" class="form-control" placeholder="Email Address" aria-label="Email Address">
-                           </li>
-                           <li>
-                              <input type="text" class="form-control" placeholder="Contact" aria-label="Contact">
-                           </li>
-                           <li>
-                              <input type="submit" class="fsubmit" value="Signup to Join us Now">
-                           </li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!--Current Promises Section End--> 
-         <!--Activities Gallery Section Start-->
-         <section class="agallery gallery wf100 p80">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-5">
-                     <!--title start-->
-                     <div class="section-title">
-                        <strong>Our Latest</strong>
-                        <h2>Activities Gallery</h2>
-                     </div>
-                     <!--title end--> 
-                  </div>
-                  <div class="col-lg-7">
-                     <ul class="flinks">
-                        <li><a data-filter="*" href="#" title="">Show All</a></li>
-                        <li><a data-filter=".f-cat1" href="#" title="">Wildlife</a></li>
-                        <li><a data-filter=".f-cat2" href="#" title="">Water Resources</a></li>
-                        <li><a data-filter=".f-cat3" href="#" title="">Solar Energy</a></li>
-                        <li><a data-filter=".f-cat4" href="#" title="">Recycling</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="gallery-inner masonry">
-                  <div class="row">
-                     <ul>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat1 f-cat4"><span><a href="images/agallery1.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a> <img src="images/agallery1.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat2 f-cat3"><span> <a href="images/agallery2.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery2.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat3 f-cat1"><span> <a href="images/agallery3.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a> <img src="images/agallery3.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat4 f-cat2"><span> <a href="images/agallery4.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery4.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat1"><span> <a href="images/agallery5.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery5.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat2"><span> <a href="images/agallery6.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery6.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat3 f-cat2"><span> <a href="images/agallery7.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery7.jpg" alt=""></span> </li>
-                        <li class="col-md-3 col-sm-6 f-cat f-cat4"><span> <a href="images/agallery8.jpg" data-rel="prettyPhoto[gallery]"> <i class="fas fa-search"></i> </a><img src="images/agallery8.jpg" alt=""></span> </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-         </section>
-         <!--Activities Gallery Section End--> 
-         <!--Partner Logos Section Start-->
-         <div class="partner-logos wf100 mb80">
-            <div class="container">
-               <div id="partner-logos" class="owl-carousel owl-theme">
-                  <div class="item"><img src="images/plogo1.png" alt=""></div>
-                  <div class="item"><img src="images/plogo2.png" alt=""></div>
-                  <div class="item"><img src="images/plogo3.png" alt=""></div>
-                  <div class="item"><img src="images/plogo4.png" alt=""></div>
-                  <div class="item"><img src="images/plogo5.png" alt=""></div>
-                  <div class="item"><img src="images/plogo1.png" alt=""></div>
-                  <div class="item"><img src="images/plogo2.png" alt=""></div>
-                  <div class="item"><img src="images/plogo3.png" alt=""></div>
-                  <div class="item"><img src="images/plogo4.png" alt=""></div>
-                  <div class="item"><img src="images/plogo5.png" alt=""></div>
-               </div>
-            </div>
-         </div>
-         <!--Partner Logos Section End--> 
-         <!--Footer Start-->
-         <footer class="footer-style-2">
-            <div class="footer-top wf100">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-3 col-sm-6">
-                        <!--Footer Widget Start-->
-                        <div class="footer-widget about-ecova">
-                           <div class="f2logo"> <img src="images/f2logo.png" alt=""> </div>
-                           <p>We are Ecova: eco & environmental community. We need your support and help to Stop Globar Warning. Few generations ago it to seemed like the world’s resources were infinite, and the people needed only to access them to create business, Lorem ipsum dolor it amet consect adipiscing.</p>
-                           <a href="#" class="more">More About Ecova</a> 
-                        </div>
-                        <!--Footer Widget End--> 
-                     </div>
-                     <div class="col-lg-3 col-sm-6">
-                        <!--Footer Widget Start-->
-                        <div class="footer-widget">
-                           <h5>Current Projects</h5>
-                           <ul class="quick-links">
-                              <li> <a href="#">Waste Management</a></li>
-                              <li><a href="#">Solar Energy</a></li>
-                              <li><a href="#">Eco Ideas</a></li>
-                              <li><a href="#">Recycling Materials</a></li>
-                              <li><a href="#">Plant Ecology</a></li>
-                              <li><a href="#">Saving Wildlife </a></li>
-                           </ul>
-                        </div>
-                        <!--Footer Widget End--> 
-                     </div>
-                     <div class="col-lg-3 col-sm-6">
-                        <!--Footer Widget Start-->
-                        <div class="footer-widget">
-                           <h5>Tags</h5>
-                           <ul class="ftags">
-                              <li><a href="#">Solar Energy</a></li>
-                              <li><a href="#">Plant Ecology</a></li>
-                              <li><a href="#">Wildlife</a></li>
-                              <li><a href="#">Eco Ideas</a></li>
-                              <li><a href="#">Waste Management</a></li>
-                              <li><a href="#">Water</a></li>
-                              <li><a href="#">Forest Planting</a></li>
-                              <li><a href="#">Donation</a></li>
-                              <li><a href="#">Wind Energy</a></li>
-                              <li><a href="#">Recycling</a></li>
-                           </ul>
-                        </div>
-                        <!--Footer Widget End--> 
-                     </div>
-                     <div class="col-lg-3 col-sm-6">
-                        <!--Footer Widget Start-->
-                        <div class="footer-widget">
-                           <h5>Latest Posts</h5>
-                           <ul class="lastest-products">
-                              <li> <img src="images/flp1.jpg" alt=""> <strong><a href="#">How you can keep alive wild animals for...</a></strong> <span class="pdate"><i>Posted:</i> 29 September, 2018</span> </li>
-                              <li> <img src="images/flp2.jpg" alt=""> <strong><a href="#">Eliminate your plastic bottle pollution & keep...</a></strong> <span class="pdate"><i>Posted:</i> 29 September, 2018</span> </li>
-                              <li> <img src="images/flp3.jpg" alt=""> <strong><a href="#">How you can keep alive wild animals for...</a></strong> <span class="pdate"><i>Posted:</i> 29 September, 2018</span> </li>
-                           </ul>
-                        </div>
-                        <!--Footer Widget End--> 
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="footer-newsletter wf100">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-7">
-                        <div class="newsletter">
-                           <strong>Join our Newsletter</strong>
-                           <ul>
-                              <li>
-                                 <input  type="text" placeholder="Your Name">
-                              </li>
-                              <li>
-                                 <input  type="text" placeholder="Your Email">
-                              </li>
-                              <li>
-                                 <input  type="submit" value="Subscribe">
-                              </li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="col-lg-5">
-                        <div class="footer-social"> <strong>Get Connect</strong> <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="#"><i class="fab fa-google-plus-g"></i></a> <a href="#"><i class="fab fa-instagram"></i></a> <a href="#"><i class="fab fa-youtube"></i></a> </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="footer-copyr wf100">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-12 col-sm-12">
-                        <p> All Rights Reserved of Ecova © 2018, Design & Developed By: GramoTech </p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </footer>
-         <!--Footer End--> 
-         <nav class="sidenav">
-            <ul class="main">
-               <li><a href="index.html">Home</a></li>
-               <li><a href="about.html">About Us</a></li>
-               <li><a href="events-grid.html">Events</a></li>
-               <li><a href="causes.html">Causes</a></li>
-               <li><a href="projects-grid.html">Projects</a></li>
-               <li><a href="blog.html">Blog</a></li>
-               <li><a href="shop-two.html">Shop</a></li>
-               <li><a href="contact-one.html">Contact</a></li>
-            </ul>
-         </nav>
-         <div class="overlay"></div>
-      </div>
-      <!--   JS Files Start  --> 
-      <script src="js/jquery-3.3.1.min.js"></script> 
-      <script src="js/jquery-migrate-1.4.1.min.js"></script> 
-      <script src="js/popper.min.js"></script> 
-      <script src="js/bootstrap.min.js"></script> 
-      <script src="js/owl.carousel.min.js"></script> 
-      <script src="js/jquery.prettyPhoto.js"></script> 
-      <script src="js/isotope.min.js"></script> 
-      <script src="js/custom.js"></script>
-   </body>
+            <!--Partner Logos Section End--> 
+            <!--Footer Start-->
+            <?php include 'footer.php'; ?>
+    </body>
 </html>

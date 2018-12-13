@@ -1,0 +1,82 @@
+.bold {font-weight: bold}
+
+.social-icon {text-align: center}
+
+.topnav .social-icon i {padding: 15px 10px 0px 0; color: white; font-size: 18px}
+
+.color-blue {color: #0e93d5 !important;}
+
+.campaign-txt h5 {font-size: 20px; text-align: center;}
+
+.pro-title p {color: #fff;}
+
+
+
+.selectBox select {
+    width: 100%;
+    border-radius: 20px;
+    padding: 7px;
+    padding-left: 26px;
+    color: #6c7591;
+    /*    font-weight: bold;*/
+}
+
+/*.overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}*/
+
+#checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+    border-radius: 10px;
+    margin-top: 0px;
+    padding: 10px 20px;
+}
+
+#checkboxes label {
+    display: block;
+}
+
+/*#checkboxes label:hover {
+  background-color: #1e90ff;
+}*/
+
+#contact input:focus,
+#contact textarea:focus {
+    outline: 0;
+    border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+    color: #888;
+}
+
+:-moz-placeholder {
+    color: #888;
+}
+
+::-moz-placeholder {
+    color: #888;
+}
+
+:-ms-input-placeholder {
+    color: #888;
+}
+
+.topside-menu i {  
+    font-size: 22px;
+    color: #689f38;
+    padding: 10px 0px 0;
+}
+
+.navbar-brand img {width: 250px;}
+
+.padding-tb-30 {padding: 30px 0;}
+
+.font-size-10 {font-size: 10px}
+
+/*.mr-auto li {border-right: 1px solid #000;}*/
