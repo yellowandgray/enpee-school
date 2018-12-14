@@ -6,7 +6,7 @@
                     <!--Footer Widget Start-->
                     <div class="footer-widget about-ecova">
                         <div class="f2logo"> <img src="images/logo-np.png" alt="" style="width: 200px"> </div>
-                        <p>The ENPEE campus covers over 5 acres surrounded by lush greenery and a serene atmosphere suitable for learning. Our school delivers world class education with all the modern facilities to Ensure that your Child get the BEST Education in Karaikal.</p>
+                        <p>The ENPEE campus covers over 5 acres surrounded by lush greenery and a serene atmosphere suitable for learning. Our school delivers world class education with all the modern facilities to ensure that your child get the BEST Education in Karaikal.</p>
                         <!--                        <a href="#" class="more">More About<br ENPEE International School</a> -->
                     </div>
                     <!--Footer Widget End--> 

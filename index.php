@@ -425,7 +425,7 @@
                         <div class="col-md-7">
                             <div class="pro-title">
                                 <h2>PARENTS CORNER</h2>
-                                <p>Dear Parents, <br/> Thank you for visiting our website. We look forward to meeting with you in person to discuss the Bright Future and Quality Education our Prestigious Institution can offer your Children. We will be happy to Show our campus and the world class facilities that you can avail. We have organized an event specially for you and your children. Kindly fill out the enquiry form for further details. </p>
+                                <p>Dear Parents, <br/> Thank you for visiting our website. We look forward to meeting with you in person to discuss the bright future and quality education provided by our prestigious school. We will be happy to show our campus and the world class facilities that are available for the benefit of students. We have organized an event specially for you and your children. Kindly fill out the enquiry form for further details. </p>
                                 <p>With Best regards,<br/> School Management</p>
                             </div>
                             <!--                            <ul class="counter">
