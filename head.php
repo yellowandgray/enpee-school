@@ -10,10 +10,12 @@
     <link href="css/color.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
     <link href="css/owl.carousel.min.css" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+<!--    <link href="css/bootstrap.min.css" rel="stylesheet">-->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
     <link href="css/prettyPhoto.css" rel="stylesheet">
     <link href="css/all.min.css" rel="stylesheet">
     <link href="css/common.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style_menu.css" rel="stylesheet" type="text/css"/>
     <!-- CSS FILES End -->
     
     <!-- Font CSS -->
